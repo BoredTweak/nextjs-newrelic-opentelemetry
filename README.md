@@ -1,4 +1,8 @@
+# NextJS New Relic OpenTelemetry Demonstration
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+NOTE - Though we are sending data to the appropriate endpoint we are currently receiving a 415 status response. More work in progress to identify what the endpoint expects in content type.
 
 ## Getting Started
 
